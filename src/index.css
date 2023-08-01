@@ -1,0 +1,14 @@
+body{
+  min-height: 100%;
+  background: #23252C;
+  max-width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.App{
+  padding: 44px 116px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
